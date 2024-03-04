@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 3px;
+}
+div{
+    background-color: black;
+    border: 4px solid black;
+    justify-content: flex-end;
+    font-size: larger;
+    display: flex;
+    gap: 30px;
+
+}
+a:hover{
+    background-color: #bae22b;
+    column-gap: 20px;
+}
